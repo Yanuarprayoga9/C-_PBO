@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\prodi_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\ui\\prodi_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|c:\\users\\yanua\\documents\\semester 4\\pbo\\private-learn\\learn\\learn\\ui\\prodi_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\ui\\prodi_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\service\\prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\service\\prodi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\service\\jurusan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\service\\jurusan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\konfigurasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\config\\konfigurasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\ui\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\ui\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\configuration_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\config\\configuration_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F1D7A4-9020-490C-85E0-C3A657322F6C}|learn\\learn.csproj|solutionrelative:learn\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prodi_Frm.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Prodi_Frm.cs",
+              "RelativeDocumentMoniker": "learn\\ui\\Prodi_Frm.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Prodi_Frm.cs",
+              "RelativeToolTip": "learn\\ui\\Prodi_Frm.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAWwFEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:04:36.216Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodi_Frm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Prodi_Frm.cs",
+              "RelativeDocumentMoniker": "learn\\ui\\Prodi_Frm.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Prodi_Frm.cs [Design]",
+              "RelativeToolTip": "learn\\ui\\Prodi_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:03:23.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jurusan.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\service\\Jurusan.cs",
+              "RelativeDocumentMoniker": "learn\\service\\Jurusan.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\service\\Jurusan.cs",
+              "RelativeToolTip": "learn\\service\\Jurusan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:26:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Login.cs",
+              "RelativeDocumentMoniker": "learn\\ui\\Login.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Login.cs",
+              "RelativeToolTip": "learn\\ui\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:08:38.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Konfigurasi.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\Konfigurasi.cs",
+              "RelativeDocumentMoniker": "learn\\config\\Konfigurasi.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\Konfigurasi.cs",
+              "RelativeToolTip": "learn\\config\\Konfigurasi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:27:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\Program.cs",
+              "RelativeDocumentMoniker": "learn\\Program.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\Program.cs",
+              "RelativeToolTip": "learn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:20:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\App.config",
+              "RelativeDocumentMoniker": "learn\\App.config",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\App.config",
+              "RelativeToolTip": "learn\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-21T13:55:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prodi.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\service\\Prodi.cs",
+              "RelativeDocumentMoniker": "learn\\service\\Prodi.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\service\\Prodi.cs",
+              "RelativeToolTip": "learn\\service\\Prodi.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwD0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:39:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\Koneksi.cs",
+              "RelativeDocumentMoniker": "learn\\config\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\Koneksi.cs",
+              "RelativeToolTip": "learn\\config\\Koneksi.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:38:54.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Splash.cs",
+              "RelativeDocumentMoniker": "learn\\ui\\Splash.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Splash.cs",
+              "RelativeToolTip": "learn\\ui\\Splash.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:02:42.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Login.cs",
+              "RelativeDocumentMoniker": "learn\\ui\\Login.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Login.cs [Design]",
+              "RelativeToolTip": "learn\\ui\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:42:22.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Splash.cs",
+              "RelativeDocumentMoniker": "learn\\ui\\Splash.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\ui\\Splash.cs [Design]",
+              "RelativeToolTip": "learn\\ui\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:58:07.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration_cls.cs",
+              "DocumentMoniker": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\Configuration_cls.cs",
+              "RelativeDocumentMoniker": "learn\\config\\Configuration_cls.cs",
+              "ToolTip": "C:\\Users\\yanua\\Documents\\Semester 4\\PBO\\private-learn\\learn\\learn\\config\\Configuration_cls.cs",
+              "RelativeToolTip": "learn\\config\\Configuration_cls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:41:17.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\GUI\GUI\obj\Debug\GUI.pdb

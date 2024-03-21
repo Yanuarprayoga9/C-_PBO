@@ -1,0 +1,7 @@
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\bin\Debug\day 2.exe.config
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\bin\Debug\day 2.exe
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\bin\Debug\day 2.pdb
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\obj\Debug\day 2.csproj.AssemblyReference.cache
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\obj\Debug\day 2.csproj.CoreCompileInputs.cache
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\obj\Debug\day 2.exe
+C:\Users\yanua\Documents\Semester 4\PBO\c#_PBO\day 2\day 2\obj\Debug\day 2.pdb
